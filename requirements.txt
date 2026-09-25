@@ -5,4 +5,5 @@ aiohttp
 urllib3
 pycryptodome
 protobuf
+PyJWT
 orjson
